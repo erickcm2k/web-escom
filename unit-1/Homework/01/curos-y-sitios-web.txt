@@ -1,0 +1,24 @@
+NOTA:
+
+Únicamente incluí la primera parte de un curso que he tomado, con
+el objetivo de no tener un archivo demasiado grande.
+
+
+Cursos que me encuentro tomando:
+
+- Epic React por Kent C. Dodds
+https://epicreact.dev/ 
+
+- Curso por Academind   
+https://www.udemy.com/course/react-the-complete-guide-incl-redux/ 
+
+Sitios que comúnmente utilizo como referencia:
+
+- Blog de Kent C. Dodds
+https://kentcdodds.com/blog/
+
+- Blog de Dan Abramov
+https://overreacted.io/
+
+- Documentación oficial de React
+https://reactjs.org/
