@@ -102,3 +102,7 @@ dist
 
 # TernJS port file
 .tern-port
+/unit-1/Tarea-06/nbproject/private/
+/unit-1/Tarea-06/build/
+/unit-1/Tarea-07/nbproject/private/
+/unit-1/Tarea-07/build/
